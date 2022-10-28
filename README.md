@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Thakur</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKi9XwEfRruU6QWsjUZbF4VV9hTsZeQYrXA&usqp=CAU" width="400px"
+alt="sonu" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonuthakur24&label=Profile%20views&color=0e75b6&style=flat" alt="sonuthakur24" /> </p>
 
