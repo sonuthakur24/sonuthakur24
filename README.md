@@ -14,9 +14,9 @@ alt="sonu"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sonu thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonu thakur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonu thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu thakur" height="30" width="40" /></a>
-<a href="https://fb.com/sonu thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonu thakur" height="30" width="40" /></a>
+<a href="https://twitter.com/Tha11220635Sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonu thakur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sonu-thakur-2b8b9523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu thakur" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100022114608635&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sonu thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/i__am_sonu_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__am_sonu_24" height="30" width="40" /></a>
 <a href="https://discord.gg/Sonu Thakur#2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sonu Thakur#2912" height="30" width="40" /></a>
 </p>
